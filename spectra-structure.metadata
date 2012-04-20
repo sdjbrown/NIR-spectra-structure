@@ -1,0 +1,13 @@
+Metadata file for the spreadsheet spectra-structure.csv
+
+This file contains data showing the regions near infrared region (800--2500 nm) that are absorbed by various functional groups. 
+
+Columns:
+-- description1: Written description of the functional group. Nicer for plotting.
+-- description2: Description that is closer in form to that used in Goddu and Delker 1960, but not as pretty when plotted.
+-- ord: Order in which groups appear in Goddu and Delker 1960. Useful for plotting.
+-- wavelengthStart: Lowest wavelength (in nanometres) where the functional group shows absorbance
+-- wavelengthEnd: Highest wavelength (in nanometres) where the functional group shows absorbance
+-- molarAbsorption: Figures given by Goddu and Delker 1960. Units are in litre/mole-cm
+-- reference: Name of entry in spectra-structure.bib from which the information was obtained.
+
