@@ -1,4 +1,4 @@
 NIR-spectra-structure
 =====================
 
-Code and data for near-infrared spectru-structure correlation charts
+R code and data for near-infrared spectra-structure correlation charts
